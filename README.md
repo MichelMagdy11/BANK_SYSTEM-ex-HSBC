@@ -23,5 +23,4 @@ A simple Java console application that simulates basic banking operations such a
 
 1. Make sure you have Java installed (javac and java).
 2. Compile the program:
-     the main file:
    **[Main.java](Main.java)**
